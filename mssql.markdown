@@ -1,6 +1,7 @@
 ---
 layout: default
 title: MSSQL Server
+permalink: /mssql-server/
 ---
 
 # Tips on MSSQL  server 
